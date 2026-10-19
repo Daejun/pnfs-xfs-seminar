@@ -1,0 +1,1 @@
+var e={source:`08-qualitative-exp/X1/summary.md`,files:100,file_mib:1,layout:{m_write:1054208,log_force:400,rpc:`OPEN 100, SETATTR 100, LAYOUTGET 100, LAYOUTCOMMIT 100`},nolayout:{m_write:105651712,log_force:300,rpc:`WRITE 100, OPEN 100, SETATTR 100`},local:{m_write:105398784,log_force:101,rpc:`-`},m_write_ratio:.01};export{e as t};
